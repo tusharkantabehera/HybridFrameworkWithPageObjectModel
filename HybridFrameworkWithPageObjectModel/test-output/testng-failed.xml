@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FreeCRMTestAutomation]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="FreeCRMTest(failed)">
+    <classes>
+      <class name="com.crm.testcases.HomePageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="varifyUsernameTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.crm.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- FreeCRMTest(failed) -->
+</suite> <!-- Failed suite [FreeCRMTestAutomation] -->
