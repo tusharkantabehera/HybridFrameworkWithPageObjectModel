@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [FreeCRMTestAutomation]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.crm.utils.ExtentReportListener"/>
+  </listeners>
   <test thread-count="5" name="FreeCRMTest(failed)">
     <classes>
-      <class name="com.crm.testcases.HomePageTest">
+      <class name="com.crm.testcases.ContactPageTest">
         <methods>
-          <include name="setup"/>
-          <include name="varifyUsernameTest"/>
           <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="selectContactTest"/>
         </methods>
-      </class> <!-- com.crm.testcases.HomePageTest -->
+      </class> <!-- com.crm.testcases.ContactPageTest -->
     </classes>
   </test> <!-- FreeCRMTest(failed) -->
 </suite> <!-- Failed suite [FreeCRMTestAutomation] -->

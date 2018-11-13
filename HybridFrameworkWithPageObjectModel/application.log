@@ -1,0 +1,20 @@
+2018-11-12 16:15:58,662 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-11-12 16:15:58,667 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-11-12 16:15:58,671 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-11-12 16:15:58,681 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-11-12 16:15:58,683 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/GLB-343/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-11-12 16:15:59,166 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-11-12 16:15:59,167 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-11-12 16:15:59,167 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-11-12 16:15:59,168 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-11-12 16:15:59,168 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/GLB-343/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-11-13 11:07:33,401  INFO [main] CRMPRO:52 - Browser opened
+2018-11-13 11:12:33,629  INFO [main] CRMPRO:35 - Properties file loaded
+2018-11-13 11:12:33,633 ERROR [main] CRMPRO:36 - Properties file loaded
+2018-11-13 11:12:33,634 FATAL [main] CRMPRO:37 - Properties file loaded
+2018-11-13 11:12:33,634 DEBUG [main] CRMPRO:38 - Properties file loaded
+2018-11-13 11:12:38,111  INFO [main] CRMPRO:57 - Browser opened
+2018-11-13 11:12:38,147  INFO [main] CRMPRO:35 - Properties file loaded
+2018-11-13 11:12:38,148 ERROR [main] CRMPRO:36 - Properties file loaded
+2018-11-13 11:12:38,148 FATAL [main] CRMPRO:37 - Properties file loaded
+2018-11-13 11:12:38,148 DEBUG [main] CRMPRO:38 - Properties file loaded
